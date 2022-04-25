@@ -1,0 +1,129 @@
+*{
+ margin: 0;
+ padding: 0;
+}
+#blog{
+ border-style: none;
+ padding: 0px;
+ background-color: inherit;
+ color: white;
+}
+
+
+li a{
+ padding: 0 20px;
+ text-decoration: none;
+ color: white;
+}
+
+nav{
+ justify-content: space-around;
+ display: flex;
+ height: 40px;
+ padding-top: 10px;
+ padding-bottom: 10px;
+ background-color: #FCBA04;
+}
+#list{
+ list-style: none;
+ display: flex;
+ justify-content: center;
+ padding: 0, 20px;
+}
+
+#pages{
+ border-style: none;
+ padding: 0px;
+ background-color: inherit;
+ color: white;
+}
+
+
+#header_2{
+ padding: 0;
+ justify-content: center;
+ padding-top: 0px;
+}
+
+#stutern{
+ display: flexbox;
+}
+
+
+body{
+ background-image: url(back.jpg);
+ background-size: 100%;
+ height: 100%;
+ background-repeat: no-repeat;
+}
+
+#design{
+ color: white;
+ justify-content: center;
+ display: flex;
+ letter-spacing: 20px;
+ font-size: 50px;
+ padding-top: 200px;
+ font-family: Arial, Helvetica, sans-serif;
+}
+
+#para{
+ color: white;
+ justify-content: center;
+ justify-items: center;
+ align-items: center;
+ display: flex;
+}
+
+#button{
+ padding: 10px 50px 10px;
+ background-color:inherit;
+ display: flexbox;
+ justify-content:flex-end;
+ align-items: center;
+ justify-items: center;
+ border-color: white;
+ place-content: center;
+ place-items: center;
+ border-style:solid;
+ color: white;
+ letter-spacing: 3px;
+ height: 50px;
+}
+
+#get{
+ color: white;
+ background-color: inherit;
+ border-style:solid;
+ border-color: white;
+ padding: 10px;
+}
+
+
+#see{
+ place-items: center;
+ padding-left: 500px;
+ padding-top: 20px;
+}
+
+
+#pa1{
+ padding-bottom: 10px;
+ color: red;
+}
+
+
+.get{
+ padding-bottom: 10px;
+}
+
+
+#s{
+ padding-top: px;
+ padding-left: 10px;
+}
+
+
+.stut{
+ padding-left: 20px;
+}

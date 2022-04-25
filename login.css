@@ -1,0 +1,80 @@
+*{
+ padding: 0;
+ margin: 0;
+}
+
+body{
+ background-color: purple;
+ display: grid;
+  place-items: center;
+ height: 100vh;
+ width: 100%;
+}
+
+#container{
+ justify-content: center;
+ background-color: white;
+ padding: 25px 30px;
+ max-width: 350px;
+ font-family:Arial, Helvetica, sans-serif;
+
+}
+
+#email{
+ width: 250px;
+ height: 30px;
+ border-style: none;
+ background-color: rgba(107, 107, 107, 0.1);
+ padding-top: 10px;
+ place-content: center;
+ align-content: center;
+ justify-items: center;
+ padding-left: 20px;
+}
+
+
+#pass{
+  width: 250px;
+  height: 30px;
+  border-style: none;
+  background-color: rgba(107, 107, 107, 0.1);
+  padding-top:10px;
+  padding-left: 20px;
+}
+
+#em{
+ padding-bottom: 10px;
+ padding-top: 20px;
+}
+
+
+#h{
+ letter-spacing: 3px;
+}
+
+
+#sign{
+
+width: 250px;
+height: 40px;
+border-style: none;
+background-color:purple;
+color: white;
+}
+
+
+#sign1{
+  padding-top: 20px;
+}
+
+
+.for{
+  text-decoration: none;
+  color: black;
+}
+
+
+#fog{
+  padding-top: 20px;
+  padding-left: 50px;
+}
